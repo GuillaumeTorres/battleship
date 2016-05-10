@@ -1,3 +1,3 @@
 # battleship
 
-![alt tag](http://isn.ovh/wp-content/uploads/2015/09/0_Processing_Logo.png)
+![alt tag](http://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Processing_Logo_Clipped.svg/200px-Processing_Logo_Clipped.svg.png)
